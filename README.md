@@ -74,9 +74,3 @@ Each product has the following fields:
 - `taille` (String): Size(s)
 - `quantiteStock` (Number): Stock quantity
 - `image` (String): Image filename
-
-## Author
-Cree par El kamraoui Abdel ghani
-
----
-Feel free to contribute or customize this project for your own e-commerce needs! 
